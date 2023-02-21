@@ -10,6 +10,18 @@ This is a Python-based security testing script that performs multiple security c
 - Default login credentials
 
 
+# Installation & Prerequisite
+```
+git clone https://github.com/SirCryptic/scc
+```
+```
+cd scc
+```
+
+```
+pip install -r requirements.txt
+```
+
 # Example Usage:
 ```
 python3 scc.py example.com -i -o json
